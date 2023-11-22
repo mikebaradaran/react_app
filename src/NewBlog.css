@@ -1,0 +1,10 @@
+label, input, button{
+    margin-left: 2em;
+}
+input{
+    display:block;
+}
+
+button{
+    margin-top: 10px;
+}

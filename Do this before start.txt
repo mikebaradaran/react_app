@@ -1,0 +1,4 @@
+load the modules: npm install
+
+start json-server with blogData2.json in the src folder: 
+npx json-server --watch  blogData2.json   -p 4000 
